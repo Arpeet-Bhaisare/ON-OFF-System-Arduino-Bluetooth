@@ -4,7 +4,24 @@
   <img src="Images/Prototype.jpg" alt="Prototype" width="700">
 </p>
 
-Arduino Bluetooth Embedded Systems
+<p align="center">
+
+![GitHub repo size](https://img.shields.io/github/repo-size/Arpeet-Bhaisare/ON-OFF-System-Arduino-Bluetooth)
+![GitHub last commit](https://img.shields.io/github/last-commit/Arpeet-Bhaisare/ON-OFF-System-Arduino-Bluetooth)
+![GitHub License](https://img.shields.io/github/license/Arpeet-Bhaisare/ON-OFF-System-Arduino-Bluetooth)
+![GitHub Release](https://img.shields.io/github/v/release/Arpeet-Bhaisare/ON-OFF-System-Arduino-Bluetooth)
+
+</p>
+
+<p align="center">
+
+![Arduino](https://img.shields.io/badge/Arduino-Uno-00979D?logo=arduino)
+![C++](https://img.shields.io/badge/Language-C%2B%2B-blue)
+![Bluetooth](https://img.shields.io/badge/HC--05-Bluetooth-blue)
+![Embedded Systems](https://img.shields.io/badge/Embedded-Systems-success)
+![ECE Project](https://img.shields.io/badge/IIIT-Bhopal-orange)
+
+</p>
 
 ![Arduino](https://img.shields.io/badge/Arduino-Uno-00979D?logo=arduino)
 ![Bluetooth](https://img.shields.io/badge/Bluetooth-HC--05-blue?logo=bluetooth)
