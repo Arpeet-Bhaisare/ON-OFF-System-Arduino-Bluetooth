@@ -178,21 +178,29 @@ Smartphone
 
 # 📂 Project Structure
 
-```
-arduino-bluetooth-home-automation
+```text
+ON-OFF-System-Arduino-Bluetooth
 │
-├── Arduino_Code
+├── Arduino_Code/
 │   └── ON_OFF_System.ino
 │
-├── Circuit_Diagram
-│   └── circuit_diagram.png
+├── Circuit_Diagram/
+│   ├── Circuit_Diagram.jpg
+│   └── Relay_Module_Pin_Diagram.jpg
 │
-├── Images
+├── Images/
+│   ├── Prototype.jpg
+│   ├── Arduino_Board.jpg
+│   ├── Bluetooth_HC05.jpg
+│   ├── Relay_Module.jpg
+│   ├── Arduino_IDE_Screenshot.png
+│   ├── Bluetooth_Controller_App.png
+│   └── Bluetooth_Controller_App_Buttons.jpg
 │
-├── PPT
-│   └── Presentation.pptx
+├── Presentation/
+│   └── Project_Presentation.pptx
 │
-├── Report
+├── Report/
 │   └── Minor_Project_Report.pdf
 │
 ├── LICENSE
