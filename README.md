@@ -117,6 +117,15 @@ The system uses Bluetooth communication between an Android smartphone and an Ard
 - USB Cable
 
 ---
+## 📸 Project Prototype
+
+The completed hardware prototype of the Smartphone Controlled Home Automation System is shown below.
+
+<p align="center">
+  <img src="Images/Prototype.jpg" alt="Project Prototype" width="700">
+</p
+
+---
 
 # ⚙ Working Principle
 
