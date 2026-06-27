@@ -345,9 +345,17 @@ Arduino_Code/ON_OFF_System.ino
 
 ---
 
-# 👥 Team Members
+## 🙏 Acknowledgements
 
-**Group 10**
+This project was developed as part of the **ECE 6th Semester Major Project (Phase-I)** at the **Indian Institute of Information Technology (IIIT), Bhopal**.
+
+**Supervisor**
+
+- Dr. Bhupendra Singh Kirar
+- Department of Electronics & Communication Engineering
+- Indian Institute of Information Technology (IIIT), Bhopal
+
+**Team Members**
 
 - Arpeet Bhaisare
 - Abhishek Brajvasi
@@ -356,42 +364,13 @@ Arduino_Code/ON_OFF_System.ino
 
 ---
 
-# 👨‍🏫 Supervisor
+## 📚 References
 
-**Dr. Bhupendra Singh Kirar**
-
-Assistant Professor
-
-Indian Institute of Information Technology, Bhopal
-
----
-
-# 🎓 Academic Information
-
-**Institute**
-
-Indian Institute of Information Technology (IIIT), Bhopal
-
-**Department**
-
-Electronics & Communication Engineering
-
-**Semester**
-
-6th Semester
-
-**Academic Year**
-
-2022–23
-
----
-
-# 🤝 Contributions
-
-Contributions, suggestions, and improvements are welcome.
-
-If you found this repository helpful, please consider giving it a ⭐.
-
+- Arduino Official Documentation
+- HC-05 Bluetooth Module Documentation
+- Arduino IDE Documentation
+- Embedded Systems Laboratory Notes
+- Course guidance provided during the ECE 6th Semester Project at IIIT Bhopal
 ---
 
 # 📄 License
