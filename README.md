@@ -1,5 +1,11 @@
 # 🏠 Smartphone Controlled Home Automation System using Arduino Uno & HC-05 Bluetooth
 
+<p align="center">
+  <img src="Images/Prototype.jpg" alt="Prototype" width="700">
+</p>
+
+Arduino Bluetooth Embedded Systems
+
 ![Arduino](https://img.shields.io/badge/Arduino-Uno-00979D?logo=arduino)
 ![Bluetooth](https://img.shields.io/badge/Bluetooth-HC--05-blue?logo=bluetooth)
 ![Embedded Systems](https://img.shields.io/badge/Embedded-Systems-success)
