@@ -213,6 +213,13 @@ void loop()
 ```
 
 Complete source code is available inside the **Arduino_Code** folder.
+### Arduino IDE
+
+The Arduino sketch was developed and uploaded using the Arduino IDE.
+
+<p align="center">
+  <img src="Images/Arduino_IDE_Screenshot.png" alt="Arduino IDE" width="800">
+</p>
 
 ---
 ## 📱 Bluetooth Controller Application
