@@ -261,7 +261,46 @@ The project uses an Android Bluetooth Controller application to send ON/OFF comm
 </td>
 </tr>
 </table>
+## 🚀 Installation & Usage
 
+### Prerequisites
+
+- Arduino IDE
+- Arduino Uno
+- HC-05 Bluetooth Module
+- Relay Module
+- Jumper Wires
+- Android Smartphone with a Bluetooth Controller App
+
+### Installation Steps
+
+1. Clone this repository:
+
+```bash
+git clone https://github.com/Arpeet-Bhaisare/ON-OFF-System-Arduino-Bluetooth.git
+```
+
+2. Open the Arduino sketch located in:
+
+```text
+Arduino_Code/ON_OFF_System.ino
+```
+
+3. Connect your Arduino Uno to your computer using a USB cable.
+
+4. Select the correct **Board** and **Port** in the Arduino IDE.
+
+5. Upload the sketch to the Arduino.
+
+6. Disconnect the USB cable if using an external power supply.
+
+7. Connect the HC-05 Bluetooth module.
+
+8. Pair your smartphone with the HC-05 module (default PIN: `1234` or `0000`).
+
+9. Open the Bluetooth Controller App.
+
+10. Press **ON** or **OFF** to control the connected appliance.
 # 📱 Applications
 
 - Home Automation
