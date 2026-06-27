@@ -162,7 +162,18 @@ Smartphone
      │
  Electrical Appliance
 ```
+## 🔗 Wiring Connections
 
+| Arduino Uno Pin | Connected To | Description |
+|-----------------|--------------|-------------|
+| 5V | HC-05 VCC | Powers the Bluetooth module |
+| GND | HC-05 GND | Common ground |
+| TX (D1) | HC-05 RX | Serial communication |
+| RX (D0) | HC-05 TX | Serial communication |
+| D2 | Relay IN | Controls the relay |
+| 5V | Relay VCC | Relay power supply |
+| GND | Relay GND | Common ground |
+> **Note:** Disconnect the HC-05 module from the Arduino TX/RX pins before uploading the program. Reconnect it after the upload is complete to ensure successful communication.
 ---
 
 # 📂 Project Structure
