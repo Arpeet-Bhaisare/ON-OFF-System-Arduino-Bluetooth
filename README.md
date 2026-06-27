@@ -87,7 +87,26 @@ The system uses Bluetooth communication between an Android smartphone and an Ard
 | Jumper Wires |
 | Power Supply |
 | Smartphone |
+### Hardware Components Gallery
 
+<table>
+<tr>
+<td align="center">
+<b>Arduino Uno</b><br>
+<img src="Images/Arduino_Board.jpg" width="220">
+</td>
+
+<td align="center">
+<b>HC-05 Bluetooth Module</b><br>
+<img src="Images/Bluetooth_HC05.jpg" width="220">
+</td>
+
+<td align="center">
+<b>Relay Module</b><br>
+<img src="Images/Relay_Module.jpg" width="220">
+</td>
+</tr>
+</table>
 ---
 
 # 💻 Software Requirements
