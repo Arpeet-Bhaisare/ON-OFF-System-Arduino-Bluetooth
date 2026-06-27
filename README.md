@@ -111,22 +111,29 @@ The system uses Bluetooth communication between an Android smartphone and an Ard
 
 ---
 
-# 🔌 Circuit Diagram
+## 🔌 Circuit Diagram
 
-> Circuit diagram is available in the **Circuit_Diagram** folder.
+The complete wiring diagram for the project is shown below.
 
-```
+<p align="center">
+  <img src="Circuit_Diagram/Circuit_Diagram.jpg" alt="Circuit Diagram" width="700">
+</p>
+
+### System Architecture
+
+```text
 Smartphone
-      │
+     │
  Bluetooth
-      │
+     │
  HC-05 Module
-      │
+     │
  Arduino Uno
-      │
+     │
  Relay Module
-      │
+     │
  Electrical Appliance
+```
 ```
 
 ---
