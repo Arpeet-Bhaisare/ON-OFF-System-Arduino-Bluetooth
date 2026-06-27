@@ -312,6 +312,17 @@ Arduino_Code/ON_OFF_System.ino
 - IoT Foundation
 
 ---
+## 🎯 Learning Outcomes
+
+- Arduino programming
+- Serial communication
+- Bluetooth communication using HC-05
+- Relay control
+- Embedded systems fundamentals
+- Hardware interfacing
+- Smartphone-based device control
+
+---
 
 # 🚀 Future Improvements
 
