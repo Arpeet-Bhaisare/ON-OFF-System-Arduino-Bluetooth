@@ -153,7 +153,6 @@ Smartphone
      │
  Electrical Appliance
 ```
-```
 
 ---
 
@@ -216,6 +215,25 @@ void loop()
 Complete source code is available inside the **Arduino_Code** folder.
 
 ---
+## 📱 Bluetooth Controller Application
+
+The project uses an Android Bluetooth Controller application to send ON/OFF commands to the Arduino through the HC-05 Bluetooth module.
+
+### Application Screenshots
+
+<table>
+<tr>
+<td align="center">
+<b>Bluetooth Connection Screen</b><br>
+<img src="Images/Bluetooth_Controller_App.png" width="280">
+</td>
+
+<td align="center">
+<b>Button Configuration</b><br>
+<img src="Images/Bluetooth_Controller_App_Buttons.jpg" width="280">
+</td>
+</tr>
+</table>
 
 # 📱 Applications
 
