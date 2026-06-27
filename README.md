@@ -23,12 +23,6 @@
 
 </p>
 
-![Arduino](https://img.shields.io/badge/Arduino-Uno-00979D?logo=arduino)
-![Bluetooth](https://img.shields.io/badge/Bluetooth-HC--05-blue?logo=bluetooth)
-![Embedded Systems](https://img.shields.io/badge/Embedded-Systems-success)
-![License](https://img.shields.io/badge/License-MIT-yellow)
-![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
-
 A smartphone-controlled home automation system developed using **Arduino Uno**, **HC-05 Bluetooth Module**, and **Relay Module** for wireless control of electrical appliances.
 
 This project was developed as part of the **ECE 6th Semester Major Project (Phase-I)** at the **Indian Institute of Information Technology (IIIT), Bhopal**.
