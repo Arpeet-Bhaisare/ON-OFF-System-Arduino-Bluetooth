@@ -97,7 +97,7 @@ The system uses Bluetooth communication between an Android smartphone and an Ard
 
 <td align="center">
 <b>Relay Module</b><br>
-<img src="Images/Relay_Module.jpg" width="220">
+<img src="Images/Relay Module Component.jpg" width="220">
 </td>
 </tr>
 </table>
