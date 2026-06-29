@@ -138,7 +138,7 @@ The completed hardware prototype of the Smartphone Controlled Home Automation Sy
 The complete wiring diagram for the project is shown below.
 
 <p align="center">
-  <img src="Circuit_Diagram/Circuit_Diagram.jpg" alt="Circuit Diagram" width="700">
+  <img src="Circuit_Diagram/Circuit Diagrams.jpg" alt="Circuit Diagrams" width="700">
 </p>
 
 ### System Architecture
