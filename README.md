@@ -86,18 +86,18 @@ The system uses Bluetooth communication between an Android smartphone and an Ard
 <table>
 <tr>
 <td align="center">
-<b>Arduino Uno</b><br>
-<img src="Images/Arduino_Board.jpg" width="220">
+<img src="Images/Arduino_Board.jpg" width="220"><br>
+<b>Arduino Uno</b>
 </td>
 
 <td align="center">
-<b>HC-05 Bluetooth Module</b><br>
-<img src="Images/Bluetooth_HC05.jpg" width="220">
+<img src="Images/Bluetooth_HC05.jpg" width="220"><br>
+<b>HC-05 Bluetooth Module</b>
 </td>
 
 <td align="center">
-<b>Relay Module</b><br>
-<img src="Images/Relay Module Component.jpg" width="220">
+<img src="Images/Relay_Module.jpg" width="220"><br>
+<b>Relay Module</b>
 </td>
 </tr>
 </table>
@@ -138,7 +138,7 @@ The completed hardware prototype of the Smartphone Controlled Home Automation Sy
 The complete wiring diagram for the project is shown below.
 
 <p align="center">
-  <img src="Circuit_Diagram/Circuit Diagrams.jpg" alt="Circuit Diagrams" width="700">
+  <img src="Circuit_Diagram/Circuit_Diagram.jpg" alt="Circuit Diagram" width="700">
 </p>
 
 ### System Architecture
@@ -240,7 +240,7 @@ Complete source code is available inside the **Arduino_Code** folder.
 The Arduino sketch was developed and uploaded using the Arduino IDE.
 
 <p align="center">
-  <img src="Images/Arduino_IDE_Screenshot.png" alt="Arduino IDE" width="800">
+  <img src="Images/Arduino_IDE_Screenshot.png" alt="Arduino IDE" width="700">
 </p>
 
 ---
@@ -253,13 +253,13 @@ The project uses an Android Bluetooth Controller application to send ON/OFF comm
 <table>
 <tr>
 <td align="center">
-<b>Bluetooth Connection Screen</b><br>
-<img src="Images/Bluetooth_Controller_App.png" width="280">
+<img src="Images/Bluetooth_Controller_App.png" width="250"><br>
+Bluetooth Connection
 </td>
 
 <td align="center">
-<b>Button Configuration</b><br>
-<img src="Images/Bluetooth_Controller_App_Buttons.jpg" width="280">
+<img src="Images/Bluetooth_Controller_App_Buttons.jpg" width="250"><br>
+Button Configuration
 </td>
 </tr>
 </table>
